@@ -21,6 +21,8 @@
 ## 🔑 기존 코드
 <details><summary><b>GameManager.cs</summary>
 
+<details>
+
 ```csharp
 public class Cat : MonoBehaviour
 {
@@ -112,5 +114,7 @@ public class Cat : MonoBehaviour
     }
 }
 ```
+
+</details>
 
 </details>
