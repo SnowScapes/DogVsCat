@@ -123,7 +123,7 @@ public class Cat : MonoBehaviour
 ```
 
 </details>
-</details>
+
 <details>
 <summary><b>Dog.cs</b></summary>
 
@@ -139,7 +139,7 @@ public class Cat : MonoBehaviour
 ```
 
 </details>
-</details>
+
 <details>
 <summary><b>StartButton.cs</b></summary>
 
