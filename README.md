@@ -116,6 +116,7 @@ public class Cat : MonoBehaviour
 ```
 
 </details>
+
 <details>
 <summary><b>Cat.cs</b></summary>
 
@@ -131,7 +132,7 @@ public class Cat : MonoBehaviour
 ```
 
 </details>
-</details>
+
 <details>
 <summary><b>Food.cs</b></summary>
 
