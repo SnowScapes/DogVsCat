@@ -19,9 +19,9 @@
 > 5. 최대한 많은 고양이들을 만족시켜보자.
 
 ## 🔑 기존 코드
-<details><summary><b>GameManager.cs</summary>
+<details><summary><b>접기/펼치기</summary>
 
-<details>
+<details><summary><b>GameManager.cs</b></summary>
 
 ```csharp
 public class Cat : MonoBehaviour
